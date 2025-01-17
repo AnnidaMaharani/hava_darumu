@@ -1,71 +1,71 @@
-# Hava Darumu
+# Hava Durumu
 
-A Flutter application that provides real-time weather information using a free public weather API. The app features a splash screen, home screen, favorite locations, and detailed weather information for selected cities.
+Gerçek zamanlı hava durumu bilgileri sağlayan, ücretsiz bir genel hava durumu API'si kullanan bir Flutter uygulaması. Uygulama; açılış ekranı, ana ekran, favori konumlar ve seçilen şehirler için detaylı hava durumu bilgileri gibi özellikler sunar.
 
 ---
 
-## Author
-- **Name**: Annida Maharani Rakhmadi  
-- **NIM**: 131830099  
+## Yazar
+- *Adı Soyadı*: Annida Maharani Rakhmadi  
+- *Öğrenci Numara*: 131830099  
 
 ---
 
 ## Demo
-[Click here to watch the demo](https://www.youtube.com/watch?v=dWYS4MGEyRw&t=2s)
+[Demoyu izlemek için buraya tıklayın](https://www.youtube.com/watch?v=dWYS4MGEyRw&t=2s)
 
 ---
 
-## Features
+## Özellikler
 
-### 1. Splash Screen
-- Displays a welcoming animation or logo while the app initializes.
-- Creates a smooth and professional first impression.
+### 1. Açılış Ekranı
+- Uygulama başlatılırken hoş bir animasyon veya logo gösterir.
+- Kullanıcılara sorunsuz ve profesyonel bir ilk izlenim sunar.
 
-### 2. Home Screen
-- Search for weather information by city name.
-- Displays current weather conditions, including:
-  - Temperature
-  - Humidity
-  - Wind speed
-  - Weather description.
-- Includes suggestions or auto-complete for city names based on user input (if supported by the API).
+### 2. Ana Ekran
+- Şehir adına göre hava durumu bilgisi arama imkânı.
+- Mevcut hava koşulları, şu bilgileri içerir:
+  - Sıcaklık
+  - Nem oranı
+  - Rüzgâr hızı
+  - Hava durumu açıklaması.
+- Kullanıcının girdiği şehir adına dayalı öneriler veya otomatik tamamlama (API destekliyorsa).
 
-### 3. Favorite Locations
-- Save cities as favorites for quick access.
-- View a list of all favorite locations and their current weather conditions.
+### 3. Favori Konumlar
+- Şehirleri favorilere ekleyerek hızlı erişim sağlar.
+- Tüm favori konumların mevcut hava durumlarını listeleme imkânı.
 
-### 4. Weather Details
-- Provides detailed weather information for selected cities, including:
-  - Hourly and daily forecasts.
-  - Sunrise and sunset times.
-  - Additional weather data such as pressure and visibility.
-
----
-
-## App Screens
-- **Splash Screen**: Welcome screen with app branding.
-- **Home Screen**: Search bar and current weather display.
-- **Favorites**: List of saved cities and their weather conditions.
-- **Weather Details**: Expanded view of detailed weather data.
+### 4. Hava Durumu Detayları
+- Seçilen şehirler için detaylı hava durumu bilgisi sunar, örneğin:
+  - Saatlik ve günlük tahminler.
+  - Güneşin doğuş ve batış saatleri.
+  - Basınç ve görüş mesafesi gibi ek hava durumu verileri.
 
 ---
 
-## How to Use
-
-1. Launch the app to view the splash screen.
-2. Use the search bar on the home screen to find weather information for a specific city.
-3. Save a city to your favorites by tapping the favorite icon.
-4. Access the "Favorites" section to view saved cities and their current weather.
-5. Tap on any city to view detailed weather information.
+## Uygulama Ekranları
+- *Açılış Ekranı*: Uygulama markasını içeren karşılama ekranı.
+- *Ana Ekran*: Arama çubuğu ve mevcut hava durumu görüntüleme.
+- *Favoriler*: Kaydedilen şehirlerin ve hava durumlarının listesi.
+- *Hava Durumu Detayları*: Genişletilmiş detaylı hava durumu bilgisi.
 
 ---
 
-## Technology Stack
-- **Flutter**: Framework used for building the application.
-- **Dart**: Programming language used in Flutter.
-- **Weather API**: Free public API for fetching weather data.
+## Nasıl Kullanılır
+
+1. Uygulamayı başlatarak açılış ekranını görüntüleyin.
+2. Ana ekrandaki arama çubuğunu kullanarak belirli bir şehir için hava durumu bilgisi arayın.
+3. Bir şehri favorilere eklemek için favori simgesine dokunun.
+4. "Favoriler" bölümüne erişerek kaydedilen şehirleri ve mevcut hava durumlarını görüntüleyin.
+5. Detaylı hava durumu bilgilerini görüntülemek için herhangi bir şehre dokunun.
 
 ---
 
-## License
-This project is for educational purposes only and uses free public APIs for weather data.
+## Teknoloji Yığını
+- *Flutter*: Uygulamanın geliştirilmesi için kullanılan framework.
+- *Dart*: Flutter'da kullanılan programlama dili.
+- *Hava Durumu API'si*: Hava durumu verilerini almak için kullanılan ücretsiz genel API.
+
+---
+
+## Lisans
+Bu proje sadece eğitim amaçlıdır ve hava durumu verileri için ücretsiz genel API'ler kullanır.
